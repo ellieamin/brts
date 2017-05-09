@@ -1,0 +1,21 @@
+[09-May-2017 12:23:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /Applications/MAMP/bin/phpLiteAdmin/phpliteadmin.php:572
+Stack trace:
+#0 /Applications/MAMP/bin/phpLiteAdmin/phpliteadmin.php(719): dir_tree('/Applications/M...')
+#1 {main}
+  thrown in /Applications/MAMP/bin/phpLiteAdmin/phpliteadmin.php on line 572
+[09-May-2017 12:23:39 Europe/Berlin] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /Applications/MAMP/bin/phpLiteAdmin/phpliteadmin.php:572
+Stack trace:
+#0 /Applications/MAMP/bin/phpLiteAdmin/phpliteadmin.php(719): dir_tree('/Applications/M...')
+#1 {main}
+  thrown in /Applications/MAMP/bin/phpLiteAdmin/phpliteadmin.php on line 572
+[09-May-2017 12:23:39 Europe/Berlin] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /Applications/MAMP/bin/phpLiteAdmin/phpliteadmin.php:572
+Stack trace:
+#0 /Applications/MAMP/bin/phpLiteAdmin/phpliteadmin.php(719): dir_tree('/Applications/M...')
+#1 {main}
+  thrown in /Applications/MAMP/bin/phpLiteAdmin/phpliteadmin.php on line 572
+[09-May-2017 12:25:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /Applications/MAMP/bin/phpLiteAdmin/phpliteadmin.php:572
+Stack trace:
+#0 /Applications/MAMP/bin/phpLiteAdmin/phpliteadmin.php(719): dir_tree('/Applications/M...')
+#1 {main}
+  thrown in /Applications/MAMP/bin/phpLiteAdmin/phpliteadmin.php on line 572
+[09-May-2017 10:52:50 UTC] WordPress database error Unknown column 'wp_' in 'field list' for query SELECT wp_
